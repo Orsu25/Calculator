@@ -1,1 +1,1 @@
-# O
+# Small Calculator
